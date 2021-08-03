@@ -50,4 +50,4 @@ steps:
     replicationRegions: 'koreacentral'
     ibSubscription: '7cfd6bff-e480-4959-96b5-7c31aaaa6ba4'
     ibAzureResourceGroup: 'devopstest'
-    ibLocation: 'koreacentral'
+    ibLocation: 'westeurope'
