@@ -48,4 +48,6 @@ steps:
     distributeType: 'sig'
     galleryImageId: '/subscriptions/7cfd6bff-e480-4959-96b5-7c31aaaa6ba4/resourceGroups/devopstest/providers/Microsoft.Compute/galleries/test123'
     replicationRegions: 'koreacentral'
-
+    ibSubscription: 'microkiz-appdev-2-1(7cfd6bff-e480-4959-96b5-7c31aaaa6ba4)'
+    ibAzureResourceGroup: 'devopstest'
+    ibLocation: 'eastus2'
